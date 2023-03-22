@@ -1,0 +1,87 @@
+MFile 1 2 96
+MTrk
+0 TimeSig 4/4 24 8
+0 Tempo 521739
+0 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "00: VST: syxg50 (Default)"
+0 Meta InstrName "00: VST: syxg50 (Default)"
+0 On ch=1 n=50 v=127
+24 Off ch=1 n=50 v=0
+48 On ch=1 n=48 v=127
+72 Off ch=1 n=48 v=0
+96 On ch=1 n=45 v=127
+120 Off ch=1 n=45 v=0
+144 On ch=1 n=48 v=127
+168 Off ch=1 n=48 v=0
+240 On ch=1 n=52 v=127
+264 Off ch=1 n=52 v=0
+336 On ch=1 n=50 v=127
+360 Off ch=1 n=50 v=0
+528 On ch=1 n=62 v=127
+552 Off ch=1 n=62 v=0
+720 On ch=1 n=53 v=127
+744 Off ch=1 n=53 v=0
+744 On ch=1 n=55 v=127
+768 Off ch=1 n=55 v=0
+768 On ch=1 n=57 v=127
+792 Off ch=1 n=57 v=0
+816 On ch=1 n=55 v=127
+840 Off ch=1 n=55 v=0
+864 On ch=1 n=53 v=127
+888 Off ch=1 n=53 v=0
+912 On ch=1 n=55 v=127
+936 Off ch=1 n=55 v=0
+1008 On ch=1 n=60 v=127
+1032 Off ch=1 n=60 v=0
+1104 On ch=1 n=57 v=127
+1128 Off ch=1 n=57 v=0
+1296 On ch=1 n=55 v=127
+1320 Off ch=1 n=55 v=0
+1488 On ch=1 n=57 v=127
+1512 Off ch=1 n=57 v=0
+1512 On ch=1 n=58 v=127
+1536 Off ch=1 n=58 v=0
+1536 On ch=1 n=57 v=127
+1560 Off ch=1 n=57 v=0
+1584 On ch=1 n=50 v=127
+1608 Off ch=1 n=50 v=0
+1632 On ch=1 n=53 v=127
+1656 Off ch=1 n=53 v=0
+1680 On ch=1 n=57 v=127
+1704 Off ch=1 n=57 v=0
+1776 On ch=1 n=60 v=127
+1800 Off ch=1 n=60 v=0
+1872 On ch=1 n=57 v=127
+1896 Off ch=1 n=57 v=0
+1968 On ch=1 n=48 v=127
+1992 Off ch=1 n=48 v=0
+2016 On ch=1 n=52 v=127
+2040 Off ch=1 n=52 v=0
+2064 On ch=1 n=55 v=127
+2088 Off ch=1 n=55 v=0
+2112 On ch=1 n=53 v=127
+2136 Off ch=1 n=53 v=0
+2160 On ch=1 n=52 v=127
+2184 Off ch=1 n=52 v=0
+2256 On ch=1 n=48 v=127
+2280 Off ch=1 n=48 v=0
+2280 On ch=1 n=52 v=127
+2304 Off ch=1 n=52 v=0
+2304 On ch=1 n=55 v=127
+2328 Off ch=1 n=55 v=0
+2400 On ch=1 n=53 v=127
+2424 Off ch=1 n=53 v=0
+2448 On ch=1 n=52 v=127
+2472 Off ch=1 n=52 v=0
+2544 On ch=1 n=48 v=127
+2568 Off ch=1 n=48 v=0
+2688 On ch=1 n=48 v=127
+2712 Off ch=1 n=48 v=0
+2760 On ch=1 n=50 v=127
+2784 Off ch=1 n=50 v=0
+2832 On ch=1 n=50 v=127
+2856 Off ch=1 n=50 v=0
+2856 Meta TrkEnd
+TrkEnd
