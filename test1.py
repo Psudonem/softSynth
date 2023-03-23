@@ -16,7 +16,7 @@ RESTFRAMES = NUMBEROFFRAMES % BITRATE
 WAVEDATA = ''
 
 def wave(t):
-    f1 = 261.63
+    f1 = 146.83238395870376#261.63
     #f2 = 329.63
     y = math.sin(t / ((BITRATE/f1) * (1/math.pi)))*127 + 128
     #y += math.sin(t / ((BITRATE/f2) * (1/math.pi)))*127 + 128
@@ -45,6 +45,18 @@ stream = p.open(format = p.get_format_from_width(1),
 stream.write(WAVEDATA)
 stream.stop_stream()
 stream.close()
+
+stream = p.open(format = p.get_format_from_width(1), 
+                channels = 1, 
+                rate = BITRATE, 
+                output = True)
+
+
+
+stream.write(WAVEDATA)
+stream.stop_stream()
+stream.close()
+
 p.terminate()
 
 
